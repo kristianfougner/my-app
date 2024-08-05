@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-child-component',
+  selector: '[childComponent]',
   templateUrl: './child-component.component.html',
   styleUrls: ['./child-component.component.css']
 })
